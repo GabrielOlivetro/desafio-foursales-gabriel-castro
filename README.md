@@ -1,4 +1,4 @@
-Gaba Games - E-Commerce Backend
+# Gaba Games - E-Commerce Backend
 Este é o backend para um sistema de gerenciamento de pedidos e produtos para o e-commerce "Gaba Games", desenvolvido com Java 17, Spring Boot, e MySQL.
 
 Requisitos
@@ -11,7 +11,7 @@ Git para clonar o repositório
 Postman ou ferramenta similar para testar a API
 Configuração do Banco de Dados
 
-Criação do Banco de Dados:
+# Criação do Banco de Dados:
 
 O banco de dados pode ser criado utilizando o arquivo gaba-games.sql, que contém todas as queries necessárias para a criação do banco e suas tabelas. Siga os passos abaixo:
 
