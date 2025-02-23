@@ -26,8 +26,10 @@ Isso irá criar o banco de dados gaba-games e as tabelas necessárias.
 Adicione as variáveis de ambiente necessárias para conectar o Spring Boot ao banco de dados e configurar a autenticação JWT. Crie ou edite o arquivo .env ou defina diretamente as variáveis no seu sistema.
 
 # Spring JPA
-DB_URL URL de conexão com o banco de dados MySQL
+DB_URL URL de conexão com o banco de dados MySQL.
+
 DB_USER Nome de usuário para autenticação no banco de dados MySQL.
+
 DB_PASSWORD Senha associada ao usuário do banco de dados MySQL.
 
 # Autenticação JWT
